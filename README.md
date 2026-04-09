@@ -16,7 +16,8 @@ MindShell is a feature-rich terminal application built in Java that brings toget
 
 &nbsp;
 
-> **Demo Video**
+> 
+>
 > 
 
 
@@ -62,8 +63,11 @@ AI: x = 42
 ### 2. GUI Version (`MindShellSwing.java`)
 A full-featured Swing desktop app with a dark theme, sidebar quick-launch panel, and styled output.
 
+<img width="960" height="565" alt="Screenshot 2026-04-09 084758" src="https://github.com/user-attachments/assets/286b3db6-9ebf-4362-a0db-4b729db50180" />
+
+
 <img width="960" height="565" alt="Screenshot 2026-04-09 085016" src="https://github.com/user-attachments/assets/8c0ff6a3-9c8b-4fe5-8b19-267ca489a096" />
-<img width="960" height="565" alt="Screenshot 2026-04-09 085016" src="https://github.com/user-attachments/assets/e49021d0-bfcc-46e6-a55b-333c34cdf831" />
+
 
 
 
